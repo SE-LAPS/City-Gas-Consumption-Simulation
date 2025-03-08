@@ -66,11 +66,6 @@ It helps analyze gas usage patterns over time and provides predictive insights u
 
 ---
 
-## 🤝 Contributing
-Feel free to contribute by improving the model or enhancing the statistical analysis!
-
----
-
 ## 📄 License
 This project is licensed under the MIT License.
 
