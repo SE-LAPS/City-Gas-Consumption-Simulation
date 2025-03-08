@@ -77,5 +77,5 @@ This project is licensed under the MIT License.
 ---
 
 ### ✨ Author
-**Lahiru Senavirathna** 👨‍💻
+**Lahiru Senavirathna** : [Lahiru Senavirathna](https://codeshow-lapz.web.app)
 
